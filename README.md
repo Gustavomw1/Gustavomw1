@@ -1,6 +1,6 @@
 # Hello, I'm Gustavo 👋
 
-I'm Gustavo Santos, aspiring **Back-End Developer**.
+I'm Gustavo Santos, **Back-End Developer**.
 
 Currently focused on deepening my knowledge in Node.js, but<br>
 I'm always learning about various technologies.
