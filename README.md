@@ -1,9 +1,9 @@
-# Hello, I'm Gustavo 👋
+# Olá, eu sou Gustavo 👋
 
-I'm Gustavo Santos, **Back-End Developer**.
+Sou Gustavo Santos, **Desenvolvedor Back-End**.
 
-Currently focused on deepening my knowledge in Node.js, but<br>
-I'm always learning about various technologies.
+Atualmente focado em aprofundar meu conhecimento em Node.js, mas<br>
+Estou sempre aprendendo sobre diversas tecnologias.
 
 ---
 
@@ -23,6 +23,6 @@ I'm always learning about various technologies.
 
 ### 📞 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavomw1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/gustavomw1//)
