@@ -1,5 +1,8 @@
-## Hi there 👋
+### Olá Eu sou o Gustavo 👋
 
-### Olá Eu sou o Gustavo Santos 👋
+## Sou Gustavo santos, Desenvolvedor Back-End.
 
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
+Atualmente focado em aprofundar meus conhecimentos em Node.js.
+
+
+[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
