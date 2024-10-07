@@ -1,6 +1,6 @@
-### Olá Eu sou o Gustavo 👋
+## Olá Eu sou o Gustavo 👋
 
-## Sou Gustavo santos, Desenvolvedor Back-End.
+# Sou Gustavo santos, Desenvolvedor Back-End.
 
 Atualmente focado em aprofundar meus conhecimentos em Node.js.
 
