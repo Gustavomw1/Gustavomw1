@@ -2,7 +2,7 @@
 
 #### Sou Gustavo santos, Desenvolvedor Back-End.
 
-Atualmente focado em aprofundar meus conhecimentos em Node.js, mas
+Atualmente focado em aprofundar meus conhecimentos em Node.js, mas <br>
 sempre estudando diversar tecnologias.
 
 
