@@ -19,13 +19,13 @@ sempre estudando diversar tecnologias. <br>
 
 <br>
 <br>
-🎲 ## Database
+## 🎲 Database
 
 [![skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]() <br>
 
 <br>
 <br>
-☎ ## Contact
+## ☎ Contact
 
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
