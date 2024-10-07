@@ -1,32 +1,30 @@
-## Olá Eu sou o Gustavo 👋
+# Hello, I'm Gustavo 👋
 
-#### Sou Gustavo santos, Desenvolvedor Back-End. 
+I'm Gustavo Santos, aspiring **Back-End Developer**.
 
-Atualmente focado em aprofundar meus conhecimentos em Node.js, mas <br>
-sempre estudando diversar tecnologias. <br>
-<br>
-<br>
-## 🚀 Tecnologias <br>
-## Linguagens
+Currently focused on deepening my knowledge in Node.js, but<br>
+I'm always learning about various technologies.
 
-[![skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() <br>
-<br>
-<br>
+---
 
-## Frameworks
+### 🛠 Technologies
 
-[![skills](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]() <br>
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<br>
-<br>
-## 🎲 Database
+#### Libraries and Frameworks
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-[![skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]() <br>
+#### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
-<br>
-## ☎ Contact
+---
 
-[![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+### 📚 Projects
+
+1. [Project Name](#): Brief description of the project.
+2. [Another Project](#): Another project description.
