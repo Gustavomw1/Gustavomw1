@@ -1,4 +1,4 @@
-# Olá! 🙂
+# Olá! 
 
 
 ### 🛠 Technologies
@@ -24,6 +24,6 @@
 
 ### 📞 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavomw1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ribeiro-4132b8331/)
-[![Instagram](https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavomw1/)
+[![GitHub](https://img.shields.io/badge/GitHub-4F4F4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavomw1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F4F4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ribeiro-4132b8331/)
+[![Instagram](https://img.shields.io/badge/Instagram-4F4F4F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavomw1/)
