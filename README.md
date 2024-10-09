@@ -1,4 +1,4 @@
-# Olá, pessoal👋
+# Olá
 
 Sou Gustavo Santos, **Desenvolvedor Back-End**.
 
