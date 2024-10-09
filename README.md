@@ -1,6 +1,5 @@
-# Olá
+# Olá! 🙂
 
----
 
 ### 🛠 Technologies
 
