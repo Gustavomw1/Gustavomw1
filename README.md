@@ -1,4 +1,4 @@
-# Olá! 
+# sou o Gustavo! 
 
 
 ### 🛠 Technologies
