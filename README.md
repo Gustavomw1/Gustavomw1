@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 💻 Tecnologias
 
 | **Linguagens**   | **Banco de Dados** | **Framework** | **Ferramentas** |
 |------------------|--------------------|---------------|-----------------|
