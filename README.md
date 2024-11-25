@@ -1,10 +1,8 @@
-# Sou o Gustavo 🤘
+# Sou o Gustavo 
 
-- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas.**
+- 🎓 **Estudante do Ensino médio.**
 - 💻 **Atualmente trabalhando em Projetos Pessoais.**
-- 🛠️ **No momento aprendendo sobre TypeScript e React.**
-- 🎯 **Meu foco é me tornar Dev FullStack.**
-- 🚀 **Estou procurando ingressar no Mercado de Devs.**
+- 🛠️ **No momento aprendendo sobre TypeScript.**
 
 <div align="center">
     <a href="mailto:seuemail@gmail.com">
