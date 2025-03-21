@@ -1,4 +1,4 @@
-# 👋 Olá, sou Gustavo 🤘
+# Gustavo
 
 - 🎓 **Estudante de Ensino médio.**  
 - 💻 **Atualmente trabalhando em Projetos Pessoais.**  
