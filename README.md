@@ -1,5 +1,3 @@
-# Gustavo
-
 - 🎓 **Estudante de Ensino médio.**  
 - 💻 **Atualmente trabalhando em Projetos Pessoais.**  
 - 🛠️ **No momento aprendendo sobre TypeScript.**  
