@@ -1,5 +1,3 @@
-### Gustavo Santos Ribeiro
-
 🎓 **Estudante de Ensino Médio.**  
 💻 **Atualmente fazendo cursos.**  
 🛠️ **No momento aprendendo sobre Java.**  
