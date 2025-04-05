@@ -3,7 +3,6 @@
 🛠️ **No momento aprendendo sobre Java.**  
 
 ---
-```java
 System.out.println("Welcome to my github!😊");
 👨‍💻 Software Engineer at Itaú Unibanco
 
