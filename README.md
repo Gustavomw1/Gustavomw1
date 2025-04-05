@@ -14,15 +14,6 @@
 ---
 
 💻 **Tech Stack**  
-☕ Java  
-🐍 Python  
-🟣 Kotlin  
-🌱 Spring  
-📡 Kafka  
-☁️ AWS  
-🟥 Redis  
-🐘 PostgreSQL  
-🐬 MySQL  
-🐳 Docker  
-🥬 MongoDB  
-🧱 Terraform
+<p style="font-size: 2rem;">
+☕ 🐍 🟣 🌱 📡 ☁️ 🟥 🐘 🐬 🐳 🥬 🧱
+</p>
