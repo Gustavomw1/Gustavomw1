@@ -1,10 +1,10 @@
+**System.out.println("Bem vinado ao meu github");
 🎓 **Estudante de Ensino Médio.**  
 💻 **Atualmente fazendo cursos.**  
 🛠️ **No momento aprendendo sobre Java.**  
 
 ---
 System.out.println("Welcome to my github!😊");
-👨‍💻 Software Engineer at Itaú Unibanco
 
 🎓 Graduated in Systems Analysis and Development at Anhembi Morumbi
 
