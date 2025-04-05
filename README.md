@@ -4,7 +4,9 @@
 
 ---
 
-💻 Tech Stack
+### 💻 Tech Stack  
+<br>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:4px;" />
