@@ -1,6 +1,6 @@
 🎓 <strong>Estudante de Ensino Médio.</strong>  
 💻 <strong>Atualmente fazendo cursos.</strong>  
-🛠️ <strong>No momento aprendendo sobre Java.</strong>
+🛠️ <strong>No momento aprendendo sobre Spring Boot.</strong>
 
 <hr>
 
