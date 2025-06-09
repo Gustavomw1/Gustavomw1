@@ -11,7 +11,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,gitlab)](https://skillicons.dev)
 
 
 
