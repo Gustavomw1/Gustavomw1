@@ -1,5 +1,5 @@
 🎓 <strong>Estudante de Ensino Médio.</strong>  
-💻 <strong>Atualmente fazendo cursos.</strong>  
+💻 <strong>Atualmente fazendo projetos pessoais para estudo.</strong>  
 🛠️ <strong>No momento aprendendo sobre Spring Boot.</strong>
 
 <hr>
