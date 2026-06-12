@@ -11,7 +11,11 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,excel,powerbi,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,java)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 
 
