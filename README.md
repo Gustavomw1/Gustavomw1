@@ -1,6 +1,6 @@
 🎓 <strong>Estudante de Ensino Médio.</strong>  
 💻 <strong>Atualmente fazendo projetos pessoais para estudo.</strong>  
-🛠️ <strong>No momento Aprimorando meu conhecimento sobre Power BI and SQL.</strong>
+🛠️ <strong>No momento Aprimorando meu conhecimento sobre Power BI e SQL.</strong>
 
 <hr>
 
