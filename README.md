@@ -9,14 +9,11 @@
 ## 💻 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git&theme=dark&perline=5" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,spring,postgres,git&theme=dark&perline=6" height="40"/>
 </p>
 
-
+---
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomw1&layout=compact&theme=tokyonight&hide_border=true&card_width=350"/>
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomw1&layout=compact&theme=tokyonight&hide_border=true&card_width=350"/>
 </div>
-
