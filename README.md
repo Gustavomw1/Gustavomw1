@@ -1,10 +1,12 @@
-# 👨‍💻 Gustavo Ribeiro
+## 🚀 Atualmente
 
-**Estudante de Ensino Médio**
+🎓 Estudante de Ensino Médio
 
-Olá! Sou o Gustavo, estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente desenvolvo projetos pessoais para aprimorar minhas habilidades e construir experiência prática.
+💻 Desenvolvendo projetos pessoais
 
-Estou focado em aprender **Java**, **Spring Boot**, **SQL** e **PostgreSQL**, sempre buscando evoluir como desenvolvedor.
+🌱 Aprendendo Java, Spring Boot e SQL
+
+📚 Buscando evoluir todos os dias como Desenvolvedor Back-end
 
 ---
 
@@ -34,33 +36,15 @@ Estou focado em aprender **Java**, **Spring Boot**, **SQL** e **PostgreSQL**, se
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomw1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
-## 🚀 Atualmente
 
-🎓 Estudante de Ensino Médio
-
-💻 Desenvolvendo projetos pessoais
-
-🌱 Aprendendo Java, Spring Boot e SQL
-
-📚 Buscando evoluir todos os dias como Desenvolvedor Back-end
 
 ---
 
