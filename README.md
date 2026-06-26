@@ -24,7 +24,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,git&theme=dark&perline=5" height="40"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft" height="40"/>
 </p>
 
 ---
