@@ -1,12 +1,8 @@
-## 🚀 Atualmente
-
 🎓 Estudante de Ensino Médio
 
 💻 Desenvolvendo projetos pessoais
 
-🌱 Aprendendo Java, Spring Boot e SQL
-
-📚 Buscando evoluir todos os dias como Desenvolvedor Back-end
+🌱 Aprimorando Java e SQL
 
 ---
 
@@ -27,7 +23,8 @@
 ## 💻 Linguagens e Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,git,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git&theme=dark&perline=5" height="40"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40"/>
 </p>
 
 ---
@@ -36,20 +33,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomw1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomw1&layout=compact&theme=tokyonight&hide_border=true&card_width=350"/>
 
 </div>
 
----
-
----
-
-
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=0e75b6&style=for-the-badge)
-
-</div>
